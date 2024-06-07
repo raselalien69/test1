@@ -1,3 +1,7 @@
 here is te textOne file of myWork
 modified for remmove
+i changed secound time to cheak branch third tiem
+making changees when i am in stage branch, i making it mannually
+changeed when i am in devlopment branch, i making it mannually
+
 
